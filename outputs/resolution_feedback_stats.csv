@@ -1,0 +1,9 @@
+Measure,Positive,Unconfirmed,Test,p_value,Effect,Estimate,CI_low,CI_high,95% CI
+NPS score,9.24,7.62,Mann-Whitney U,0.0,rank-biserial r,0.272,0.166,0.385,"[+0.2, +0.4]"
+Positive difference (1-4),3.36,2.84,Mann-Whitney U,0.0,rank-biserial r,0.278,0.144,0.408,"[+0.1, +0.4]"
+"Needs met (legacy, 1-5)",4.2,3.47,Mann-Whitney U,0.0,rank-biserial r,0.297,0.143,0.443,"[+0.1, +0.4]"
+Informed about case,84.08,68.5,Mann-Whitney U,0.0001,rank-biserial r,0.243,0.115,0.369,"[+0.1, +0.4]"
+Promoter rate,87.7,63.0,Two-proportion z,0.0,risk diff (pp),24.7,15.0,35.2,"[+15.0, +35.2]"
+Gave choices,88.4,75.0,Two-proportion z,0.0005,risk diff (pp),13.4,5.1,23.4,"[+5.1, +23.4]"
+Barriers reported,12.9,31.5,Two-proportion z,0.0,risk diff (pp),-18.7,-29.0,-9.5,"[-29.0, -9.5]"
+Unmet need,23.4,45.7,Two-proportion z,0.0,risk diff (pp),-22.3,-33.0,-11.8,"[-33.0, -11.8]"
